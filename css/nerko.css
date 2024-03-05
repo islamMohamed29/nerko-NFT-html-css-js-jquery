@@ -436,7 +436,7 @@ section.road-map .wrapper .links ul :before {
   color: var(--secondMove);
 }
 section.road-map .wrapper .links ul li.active {
-  color: #ac74f9;
+  color: var(--moveColor);
 }
 section.road-map .wrapper .links ul li.active:before {
   display: block;
